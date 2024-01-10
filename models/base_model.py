@@ -6,7 +6,7 @@ from detetime import detetime
 
 
 class BaseModel:
-    """Represents the BaseModel of the AirBnB project."""
+    """Represents the BaseModel of the HBnB project."""
 
     def __init__(self, *args, **kwargs):
         """Initialize a new BaseModel.
